@@ -1,0 +1,9 @@
+** checklist **
+
+- organized: fixed
+- No specificity issues
+- Atomic Design Principles
+- Easy To Understand(Comments and Variables)
+- fully Customizable/ themable
+- Reusable across Teams / Projects
+
